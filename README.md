@@ -17,3 +17,12 @@ Do you care to know more about me? 😄
 - 💬 Feel free to ask me any question; I relish the opportunity to contribute to solutions or solve challenging problems.
 - 📫 You can reach out to me at thomas.kyeimiah@mail.mcgill.ca or kyeimiahthomasamo97@gmail.com. You are welcome to have an engaging conversation about science, data, and creative development and design.
 - ⚡ Interestingly, one fun fact about me is that I never rest until a task is completed💞️.
+
+</a>
+ <a href="linkedin.com/in/thomas-amo-kyeimiah-87b602166">
+  <img align="left" alt="Thomas' LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  
+<br/>
+
+<h3 align="center"> Languages:</h3>
+

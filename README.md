@@ -44,13 +44,17 @@ Do you care to know more about me? 😄
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/>  </a>
 <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> </a> 
 </p>
+
 <h3> 📈 My Github Stats: </h3>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ProgrammerOheneba&show_icons=true&theme=transparent&rank_icon=github)
 
 <h3> 📊 My Language Stats: </h3>
+
 ![I frequently use these languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerOheneba&show_icons=true&theme=transparent&layout=donut)
 
 <h3> 🔦 Visitors Count: </h3>
+
 <img align="left" src = "https://profile-counter.glitch.me/ProgrammerOheneba/count.svg" alt ="Loading">
 <br/>
 

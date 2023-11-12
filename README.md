@@ -3,7 +3,7 @@ Hey there, This is Thomas Amo Kyeimiah👋
 </h3>
 
 <h4 align="center">
-You can call me Programmer Ohenenba or the Code Wizzard
+You can call me Programmer Ohenenba or Code Wizzard
 </h4>
 
 <h5 align="center">

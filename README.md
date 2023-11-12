@@ -2,9 +2,14 @@
 Hey there, This is Thomas Amo Kyeimiah👋
 </h3>
 
-### You can call me Programmer Ohenenba or the Code Wizzard
+<h4 align="center">
+You can call me Programmer Ohenenba or the Code Wizzard
+</h4>
 
-### Do you care to know more about me? 😄
+<h5 align="center">
+Do you care to know more about me? 😄
+</h5>
+
 
 - 🔭 I am currently a second-year master's student at McGill University, working on sea ice projection using outputs from a high-resolution Community Earth System Model (CESM-HR). Results indicate that by the end of the 21st century, sea ice along the Labrador coast will have diminished to as little as 0.12 million km². The coast is expected to be ice-free in September. The ice will retreat later and break up earlier. These trends could be minimized if we monitor our carbon footprint and control many of the anthropogenic activities that lead to an increase in greenhouse gases, especially CO2. Science is fun💟
 - 🌱 I am also interested in data science and analytics, high-performance computing, machine learning, web design and development, as well as UI/UX and graphic design.

@@ -35,7 +35,7 @@ Do you care to know more about me? 😄
 
 <h3>👀 my bad! I forgot to add:</h3>
 <p align="center"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/> </a>  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/> 
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a><a href="" target="_blank" > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"  alt="jupyter notebook" width="20" height="20"/></a> </p>
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/> </a><a href="" target="_blank" > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"  alt="jupyter notebook" width="20" height="20"/></a> 
 <a href="https://www.javascript.com" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> 
 </a>
@@ -44,6 +44,6 @@ Do you care to know more about me? 😄
 </a>
 <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> 
-</a>
+</a> </p>
 
 

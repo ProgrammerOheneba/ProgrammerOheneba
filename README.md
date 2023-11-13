@@ -1,5 +1,5 @@
 <h1 align="center">
-### Hey there, This is Thomas Amo Kyeimiah👋
+Hey there, This is Thomas Amo Kyeimiah👋
 </h1>
 
 <h2 align="center">

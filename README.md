@@ -10,11 +10,6 @@ Climate Scientist, Data Science Enthusiast & Designer
 Do you care to know more about me? 😄
 </h2>
 
-
-<h3 align="center">
-🧏🏾‍♂️ About Me
-</h3>
-
 <table>
   
   <tr align='center'>

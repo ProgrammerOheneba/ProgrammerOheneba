@@ -103,12 +103,15 @@ Do you care to know more about me? 😄
 ![I frequently use these languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devThom-studios&show_icons=true&theme=transparent&layout=donut)
 </div>
 <h3 align="center"> 
- 🔦 Visitors Count: 
+ 📉 Contributions 
 </h3>
-
 <div>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=devThom-studios&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </div>
+
+<h3 align="center"> 
+ 🔦 Visitors Count: 
+</h3>
 <div align="center"> 
 <img align="center" src = "https://profile-counter.glitch.me/devThom-studios/count.svg" alt ="Loading">
 </div>

@@ -110,7 +110,7 @@ Do you care to know more about me? 😄
 <img align="center" src = "https://profile-counter.glitch.me/ProgrammerOheneba/count.svg" alt ="Loading">
 </div>
 <div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devThom-studios&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devThom-studios&theme=react-dark&bg_color=f75c7e&hide_border=true" width="100%"/>
 </p>
 </div>
 

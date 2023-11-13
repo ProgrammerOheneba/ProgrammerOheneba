@@ -6,9 +6,9 @@ Hey there, This is Thomas Amo Kyeimiah👋
 Climate Scientist, Data Science Enthusiast & Designer
 </h2>
 
-<h3 align="center">
+<h2 align="center">
 Do you care to know more about me? 😄
-</h3>
+</h2>
 
 
 <h3 align="center">

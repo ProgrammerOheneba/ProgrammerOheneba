@@ -74,8 +74,7 @@ Do you care to know more about me? 😄
 </h3>
 
 <div align="center"> 
- 
-<img align="left" src = "https://profile-counter.glitch.me/ProgrammerOheneba/count.svg" alt ="Loading">
+<img align="center" src = "https://profile-counter.glitch.me/ProgrammerOheneba/count.svg" alt ="Loading">
 </div>
 
 

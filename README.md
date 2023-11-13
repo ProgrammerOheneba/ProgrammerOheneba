@@ -40,7 +40,7 @@ Do you care to know more about me? 😄
 👀 my bad! I forgot to add:</h3>
 </h3>
 
-<p align="center"> 
+<div align="center"> 
  
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="20" height="20"/> 
@@ -49,7 +49,7 @@ Do you care to know more about me? 😄
 <a href="https://www.javascript.com" target="_blank">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> </a>
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/>  </a>
 <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> </a> 
-</p>
+</div>
 
 <h3 align="center"> 
  📈 My Github Stats: 
@@ -70,5 +70,4 @@ Do you care to know more about me? 😄
 <img align="left" src = "https://profile-counter.glitch.me/ProgrammerOheneba/count.svg" alt ="Loading">
 <br/>
 
-<p>You're still here. See you later then, thank you. I need some rest 🛌 🛏🚪🗝🏃🤦! Bye....💤</p>
 

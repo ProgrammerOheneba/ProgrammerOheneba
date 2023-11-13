@@ -1,10 +1,10 @@
-<h3 align="center">
-Hey there, This is Thomas Amo Kyeimiah👋
-</h3>
+<h1 align="center">
+### Hey there, This is Thomas Amo Kyeimiah👋
+</h1>
 
-<h4 align="center">
-You can call me Programmer Ohenenba or Code Wizzard
-</h4>
+<h2 align="center">
+Climate Scientist, Data Science Enthusiast & Designer
+</h2>
 
 <h5 align="center">
 Do you care to know more about me? 😄

@@ -109,5 +109,8 @@ Do you care to know more about me? 😄
 <div align="center"> 
 <img align="center" src = "https://profile-counter.glitch.me/ProgrammerOheneba/count.svg" alt ="Loading">
 </div>
-
+<div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devThom-studios&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
+</div>
 

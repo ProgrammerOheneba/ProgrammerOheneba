@@ -8,16 +8,8 @@
 
 <p align="center">
   <a href="https://github.com/ProgrammerOheneba/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Climate%20Scientist%20;Data%20Scientist;Web%20Developer%20and%20Designer;5%2B%20years%20of%20coding%20and%20designing%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Climate%20Scientist%20;Data%20Scientist;Web%20Developer%20and%20Designer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
-
-<h1 align="center">
-Hey there, This is Thomas Amo Kyeimiah👋
-</h1>
-
-<h2 align="center">
-Climate Scientist, Data Science Enthusiast & Designer
-</h2>
 
 <h2 align="center">
 Do you care to know more about me? 😄

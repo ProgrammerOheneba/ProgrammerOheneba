@@ -16,6 +16,7 @@ Do you care to know more about me? 😄
 </h3>
 
 <table>
+  
   <tr align='center'>
       <td>
        🔭 I am currently a second-year master's student at McGill University, working on sea ice projection using outputs from a high-resolution Community Earth System Model (CESM-HR).
@@ -25,12 +26,32 @@ Do you care to know more about me? 😄
        ice-free summers by 2050. Science is fun💟
      </td>
   </tr>
- 
-<li>🌱 I am also interested in data science and analytics, high-performance computing, machine learning, web design and development, as well as UI/UX and graphic design.</li>
-<li>🤝 I am open to partnering on initiatives involving data, climate science, and design. Volunteering for research that captures my interest is something I would consider.</li>
-<li>💬 Feel free to ask me any question; I relish the opportunity to contribute to solutions or solve challenging problems.</li>
-<li>📫 You can reach out to me at thomas.kyeimiah@mail.mcgill.ca or kyeimiahthomasamo97@gmail.com. You are welcome to have an engaging conversation about science, data, and creative development and design.</li>
-<li>⚡ Interestingly, one fun fact about me is that I never rest until a task is completed💞️.</li>
+  <tr align='center'>
+      <td>
+      🌱 I am also interested in data science and analytics, high-performance computing, machine learning, web design and development, as well as UI/UX and graphic design.
+      </td>
+  </tr>
+  <tr align='center'>
+      <td>
+      🤝 I am open to partnering on initiatives involving data, climate science, and design. Volunteering for research that captures my interest is something I would consider.
+      </td>
+  </tr>
+  <tr align='center'>
+      <td>
+      💬 Feel free to ask me any question; I relish the opportunity to contribute to solutions or solve challenging problems.
+      </td>
+  </tr>
+  <tr align='center'>
+      <td>
+      📫 You can reach out to me at thomas.kyeimiah@mail.mcgill.ca or kyeimiahthomasamo97@gmail.com. You are welcome to have an engaging conversation about science, data, and creative development and                design.
+      </td>
+  </tr>
+  <tr align='center'>
+      <td>
+      ⚡ Interestingly, one fun fact about me is that I never rest until a task is completed💞️.
+      </td>
+  </tr>
+  
 </table>
 
 <br/>

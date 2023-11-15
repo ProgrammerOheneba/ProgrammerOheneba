@@ -27,7 +27,7 @@ Do you care to know more about me?
   
   <tr align='center'>
       <td>
-      🌱 I am also interested in data science and analytics, high-performance computing, machine learning, web design and development, as well as UI/UX and graphic design.
+      🌱 I am into data science and analytics, high-performance computing, machine learning, web design and development, as well as UI/UX and graphic design.
       </td>
   </tr>
   

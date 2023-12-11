@@ -10,7 +10,7 @@
 </p>
 
 <h3 align="center">
-Do you care to know more about me?
+Do you care to know more about me
 </h3>
 
 <table>
